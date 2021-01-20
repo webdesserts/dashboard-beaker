@@ -21,7 +21,7 @@
     "@webdesserts/app-scripts": "^0.6.0",
     "core-js": "3",
     "fp-ts": "^2.3.1",
-    "immer": "^2.0.0",
+    "immer": "^8.0.1",
     "io-ts": "^2.0.2",
     "jsonwebtoken": "^8.5.1",
     "jwks-rsa": "^1.6.0",
